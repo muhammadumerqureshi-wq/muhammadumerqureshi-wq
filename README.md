@@ -155,7 +155,7 @@ DEPLOYMENT & MLOps           MODEL EVALUATION
 
 I'm open to **remote ML freelance work**, **internship opportunities**, and **collaboration** on interesting data science projects.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umerqureshi-243b12387)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-qureshi-243b12387/)
 [![Hire on Upwork](https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
 [![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadumerqureshi39@gmail.com)
 
